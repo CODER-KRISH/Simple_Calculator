@@ -1,1 +1,2 @@
-#Made a Simple Calculator
+# Made a Simple Calculator
+A simple Calculator Project
